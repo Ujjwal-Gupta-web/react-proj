@@ -1,0 +1,226 @@
+[
+    {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "lastLogin": "2023-05-12T07:28:13.279Z",
+        "imageUrl": "https://randomuser.me/api/portraits/men/1.jpg",
+        "status": "active",
+        "role": "admin"
+    },
+    {
+        "name": "Emily Davis",
+        "email": "emily.davis@example.com",
+        "lastLogin": "2023-05-11T19:08:53.630Z",
+        "imageUrl": "https://randomuser.me/api/portraits/women/2.jpg",
+        "status": "inactive",
+        "role": "user"
+    },
+    {
+        "name": "David Wilson",
+        "email": "david.wilson@example.com",
+        "lastLogin": "2023-05-10T03:35:16.908Z",
+        "imageUrl": "https://randomuser.me/api/portraits/men/3.jpg",
+        "status": "inactive",
+        "role": "user"
+    },
+    {
+        "name": "Olivia Johnson",
+        "email": "olivia.johnson@example.com",
+        "lastLogin": "2023-05-09T12:41:47.481Z",
+        "imageUrl": "https://randomuser.me/api/portraits/women/4.jpg",
+        "status": "active",
+        "role": "user"
+    },
+    {
+        "name": "William Garcia",
+        "email": "william.garcia@example.com",
+        "lastLogin": "2023-05-08T18:21:23.103Z",
+        "imageUrl": "https://randomuser.me/api/portraits/men/5.jpg",
+        "status": "active",
+        "role": "admin"
+    },
+    {
+        "name": "Ava Brown",
+        "email": "ava.brown@example.com",
+        "lastLogin": "2023-05-07T08:49:15.664Z",
+        "imageUrl": "https://randomuser.me/api/portraits/women/6.jpg",
+        "status": "inactive",
+        "role": "user"
+    },
+    {
+        "name": "James Rodriguez",
+        "email": "james.rodriguez@example.com",
+        "lastLogin": "2023-05-06T19:53:29.870Z",
+        "imageUrl": "https://randomuser.me/api/portraits/men/7.jpg",
+        "status": "active",
+        "role": "user"
+    },
+    {
+        "name": "Isabella Martinez",
+        "email": "isabella.martinez@example.com",
+        "lastLogin": "2023-05-05T09:05:37.934Z",
+        "imageUrl": "https://randomuser.me/api/portraits/women/8.jpg",
+        "status": "active",
+        "role": "admin"
+    },
+    {
+        "name": "Daniel Smith",
+        "email": "daniel.smith@example.com",
+        "lastLogin": "2023-05-04T01:17:18.460Z",
+        "imageUrl": "https://randomuser.me/api/portraits/men/9.jpg",
+        "status": "inactive",
+        "role": "user"
+    },
+    {
+        "name": "Karen Johnson",
+        "email": "karenjohnson@example.com",
+        "lastLogin": "2023-05-13T23:16:20.194Z",
+        "imageUrl": "https://randomuser.me/api/portraits/women/24.jpg",
+        "status": "active",
+        "role": "user"
+    },
+    {
+        "name": "Richard Barnes",
+        "email": "richardbarnes@example.com",
+        "lastLogin": "2023-05-12T18:27:33.361Z",
+        "imageUrl": "https://randomuser.me/api/portraits/men/47.jpg",
+        "status": "active",
+        "role": "user"
+    },
+    {
+        "name": "Evelyn Thompson",
+        "email": "evelynthompson@example.com",
+        "lastLogin": "2023-05-11T09:42:14.886Z",
+        "imageUrl": "https://randomuser.me/api/portraits/women/65.jpg",
+        "status": "inactive",
+        "role": "admin"
+    },
+    {
+        "name": "Joseph Scott",
+        "email": "josephscott@example.com",
+        "lastLogin": "2023-05-10T14:08:05.718Z",
+        "imageUrl": "https://randomuser.me/api/portraits/men/29.jpg",
+        "status": "active",
+        "role": "admin"
+    },
+    {
+        "name": "Alicia Reed",
+        "email": "aliciareed@example.com",
+        "lastLogin": "2023-05-09T03:12:51.594Z",
+        "imageUrl": "https://randomuser.me/api/portraits/women/70.jpg",
+        "status": "inactive",
+        "role": "user"
+    },
+    {
+        "name": "Edward Torres",
+        "email": "edwardtorres@example.com",
+        "lastLogin": "2023-05-08T07:47:19.855Z",
+        "imageUrl": "https://randomuser.me/api/portraits/men/20.jpg",
+        "status": "active",
+        "role": "user"
+    },
+    {
+        "name": "Anna Wright",
+        "email": "annawright@example.com",
+        "lastLogin": "2023-05-07T21:33:38.936Z",
+        "imageUrl": "https://randomuser.me/api/portraits/women/77.jpg",
+        "status": "inactive",
+        "role": "user"
+    },
+    {
+        "name": "Daniel Adams",
+        "email": "danieladams@example.com",
+        "lastLogin": "2023-05-06T06:56:18.635Z",
+        "imageUrl": "https://randomuser.me/api/portraits/men/60.jpg",
+        "status": "active",
+        "role": "user"
+    },
+    {
+        "name": "Maria Hill",
+        "email": "mariahill@example.com",
+        "lastLogin": "2023-05-05T19:20:42.451Z",
+        "imageUrl": "https://randomuser.me/api/portraits/women/92.jpg",
+        "status": "inactive",
+        "role": "admin"
+    },
+    {
+        "name": "Christopher Perez",
+        "email": "christopherperez@example.com",
+        "lastLogin": "2023-05-04T11:38:49.537Z",
+        "imageUrl": "https://randomuser.me/api/portraits/men/56.jpg",
+        "status": "active",
+        "role": "user"
+    },
+    {
+        "name": "Alice Smith",
+        "email": "alice.smith@example.com",
+        "lastLogin": "2022-10-23T16:25:11.000Z",
+        "imageUrl": "https://randomuser.me/api/portraits/women/7.jpg",
+        "status": "active",
+        "role": "user"
+    },
+    {
+        "name": "Bob Johnson",
+        "email": "bob.johnson@example.com",
+        "lastLogin": "2022-10-22T12:41:09.000Z",
+        "imageUrl": "https://randomuser.me/api/portraits/men/64.jpg",
+        "status": "active",
+        "role": "admin"
+    },
+    {
+        "name": "Cathy Davis",
+        "email": "cathy.davis@example.com",
+        "lastLogin": "2022-10-20T03:10:29.000Z",
+        "imageUrl": "https://randomuser.me/api/portraits/women/82.jpg",
+        "status": "inactive",
+        "role": "user"
+    },
+    {
+        "name": "David Wilson",
+        "email": "david.wilson@example.com",
+        "lastLogin": "2022-10-19T14:05:45.000Z",
+        "imageUrl": "https://randomuser.me/api/portraits/men/44.jpg",
+        "status": "active",
+        "role": "admin"
+    },
+    {
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com",
+        "lastLogin": "2022-10-18T06:32:27.000Z",
+        "imageUrl": "https://randomuser.me/api/portraits/women/14.jpg",
+        "status": "inactive",
+        "role": "user"
+    },
+    {
+        "name": "Frank Jackson",
+        "email": "frank.jackson@example.com",
+        "lastLogin": "2022-10-17T22:58:50.000Z",
+        "imageUrl": "https://randomuser.me/api/portraits/men/12.jpg",
+        "status": "active",
+        "role": "admin"
+    },
+    {
+        "name": "Grace Taylor",
+        "email": "grace.taylor@example.com",
+        "lastLogin": "2022-10-15T09:48:16.000Z",
+        "imageUrl": "https://randomuser.me/api/portraits/women/27.jpg",
+        "status": "inactive",
+        "role": "user"
+    },
+    {
+        "name": "Henry Martinez",
+        "email": "henry.martinez@example.com",
+        "lastLogin": "2022-10-14T18:22:33.000Z",
+        "imageUrl": "https://randomuser.me/api/portraits/men/48.jpg",
+        "status": "active",
+        "role": "admin"
+    },
+    {
+        "name": "Isabella Rodriguez",
+        "email": "isabella.rodriguez@example.com",
+        "lastLogin": "2022-10-13T12:30:09.000Z",
+        "imageUrl": "https://randomuser.me/api/portraits/women/63.jpg",
+        "status": "inactive",
+        "role": "user"
+    }
+]
